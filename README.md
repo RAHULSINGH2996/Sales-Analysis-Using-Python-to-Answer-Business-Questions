@@ -7,7 +7,7 @@ PROBLEM STATEMENT: Keith Electronics is a newly started electronic products comp
 - What products are most often sold together?
 - What time should we display advertisemens to maximize the likelihood of customer’s buying product?
 
-Insights from your analysis will be used to drive business strategy and make important data-driven business decisions. You must be able to back your insights using data and give a detailed explanation of your findings.
+Insights from your analysis will be used to drive business strategy and make important data-driven business decisions. You must be able to back your insights using data and give a detailed explanation for your findings.
 
 You're given a CSV file containing 12 months worth of verified sales data. The data contains hundreds of thousands of electronics store purchases broken down by month, product type, cost, purchase address, etc. 
 
