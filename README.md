@@ -1,4 +1,4 @@
-# Sales-Analysis-Using-Python-to-Answer-Business-Questions
+# PROJECT: Sales-Analysis-Using-Python-to-Answer-Business-Questions
 
 PROBLEM STATEMENT: Keith Electronics is a newly started electronic products company which sells products such as phones, laptops, headphones chargers, batteries, etc. The company just completed its first financial year in the market and is now looking to increase its presence all over the United States. As the lead Data Analyst at keith Electronics you are tasked with analyzing the past 12 months of sales data available with you to derive insights and answer the following business questions:
 - What was the best month for sales? How much was earned that month?
