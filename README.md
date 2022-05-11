@@ -1,7 +1,7 @@
 # Sales-Analysis-Using-Python-to-Answer-Business-Questions
 This repository contains my project "Sales Analysis Using Python To Answer Business Questions". It also contains the dataset used in this project and a readme file containing an overview of the project.
 
-PROBLEM STATEMENT: Keith Electronics is a newly started electronic products company which sells products such as phones, laptops, headphones chargers, batteries, etc. The company just completed its first financial year in the market and is now looking to increase its presence all over the United States. As the lead Data Analyst at keith Electronics you are tasked with analyzing the past 12 months of sales data available with you to answer the following business questions:
+PROBLEM STATEMENT: Keith Electronics is a newly started electronic products company which sells products such as phones, laptops, headphones chargers, batteries, etc. The company just completed its first financial year in the market and is now looking to increase its presence all over the United States. As the lead Data Analyst at keith Electronics you are tasked with analyzing the past 12 months of sales data available with you to derive insights and answer the following business questions:
 - What was the best month for sales? How much was earned that month?
 - What city sold the most product?
 - What product sold the most? Why do you think it sold the most?
